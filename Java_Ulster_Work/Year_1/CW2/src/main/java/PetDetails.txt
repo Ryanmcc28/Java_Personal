@@ -1,0 +1,20 @@
+fish jaws 70 white 400.0 shark saltwater
+cat garfield 15 orange 50.0 tabby
+dog freddie 5 blonde 11.0 cockapoo
+fish flipper 23 blue 300.0 dolphin saltwater
+cat whiskers 7 gray 15.0 persian
+dog buddy 12 brown 20.0 golden_retriever
+fish nemo 3 orange 1.2 clownfish freshwater
+cat luna 8 black 10.0 siamese
+dog rocky 2 white 25.0 husky
+fish goldie 1 yellow 0.5 goldfish freshwater
+dog max 4 black 18.0 labrador
+cat mittens 11 tabby 9.0 bengal
+fish bubbles 5 green 2.0 betta freshwater
+dog bella 6 golden 22.0 german_shepherd
+fish splash 4 red 3.5 guppy freshwater
+cat shadow 9 black 12.0 shorthair
+dog charlie 7 beige 28.0 bulldog
+fish ray 10 gray 350.0 stingray saltwater
+dog oscar 3 spotted 14.0 dalmatian
+cat jean 5 black 13.0 tabby
