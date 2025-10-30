@@ -1,1 +1,1 @@
-**Test projects to learn JavaFx
+Test projects to learn JavaFx
